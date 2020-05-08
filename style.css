@@ -1,0 +1,16 @@
+section {
+    padding: 20px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: dodgerblue;
+}
+
+.opacity-red {
+    background-color: red;
+    opacity: 0.7;
+}
